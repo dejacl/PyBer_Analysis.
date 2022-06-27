@@ -8,10 +8,10 @@ budgets and type of schools.
 
 ### Results: 
 
-   *How is the district summary affected?
+ *How is the district summary affected?
 The district summary was affected by an average of 5-10% of change in the data collected.
 
-    *How is the school summary affected? 
+*How is the school summary affected?
 The school summary was affected by the data by a increase in the data by 5-10%.
   
    *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
