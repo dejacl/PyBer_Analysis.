@@ -16,14 +16,12 @@ The district summary was affected by an average of 5-10% of change in the data c
     
   The school summary was affected by the data by a increase in the data by 5-10%.
   
-   *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-   
+   *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
 Replacing the ninth grades the performance scores to other school was little to no change in the data. Removing the ninth grade made the average scoring very
 close to other schools.
 
     * How does replacing the ninth-grade scores affect the following:
-    
-	Replacing the ninth grades scores affected the elements of the data a little more than expected. The other school scores were very close to Thomas High School making removing the ninth grader beneficial to by creating better scores. 
+  Replacing the ninth grades scores affected the elements of the data a little more than expected. The other school scores were very close to Thomas High School making removing the ninth grader beneficial to by creating better scores. 
 
 ### Summary: 
 
